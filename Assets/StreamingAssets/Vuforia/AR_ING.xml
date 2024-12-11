@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="localtech" size="6.000000 8.000000" />
+    <ImageTarget name="d204" size="6.000000 8.000000" />
+    <ImageTarget name="d201" size="6.000000 8.000000" />
+    <ImageTarget name="d203" size="6.000000 8.000000" />
+    <ImageTarget name="d202" size="6.000000 8.000000" />
+    <ImageTarget name="ines" size="6.000000 6.040268" />
+    <ImageTarget name="104" size="6.000000 8.000000" />
+    <ImageTarget name="103" size="6.000000 8.000000" />
+    <ImageTarget name="102" size="6.000000 8.000000" />
+    <ImageTarget name="bloc-d_1" size="6.000000 8.000000" />
+  </Tracking>
+</QCARConfig>
